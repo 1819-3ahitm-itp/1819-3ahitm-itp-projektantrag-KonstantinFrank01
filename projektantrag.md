@@ -8,7 +8,7 @@ folgendes Problem.
 
 ## Problem
 Auf der Suche nach Events verschwendet man viel Zeit, weil man im Internet auf verschiedensten
-Websiten von Veranstaltern herumsurft. Zwar gibt es verschiedene Apps bei denen man nach Rock-Konzerten in
+Websiten von Veranstaltern herumsurft. Zwar gibt es verschiedene Apps bei denen man z.B. nach Rock-Konzerten in
 der Nähe suchen kann, dies ist aber oft unübersichtlich und nur für die breite Masse.
 Auf Facebook gibt es zwar auch die Möglichkeit verschiedene Veranstaltungen anzusehen, jedoch
 verirren sich immer wieder Events in diesen "Veranstaltungsbereich" für die ich mich überhaupt nicht interessiere, oder
