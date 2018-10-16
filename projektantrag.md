@@ -2,8 +2,8 @@
 
 ## Ausgangssituation
 Viele Freunde und Bekannte haben das selbe Problem wie ich. Man möchte etwas mit Freunden
-unternehmen, aber weiß nicht wo sich lustige und spannende Veranstaltungen abspielen. 
-Dadurch ergibt sich folgendes Problem.
+unternehmen, aber weiß nicht wo sich lustige und spannende Veranstaltungen abspielen,  
+dadurch ergibt sich folgendes Problem.
 
 ## Problem
 Auf der Suche nach Events verschwendet man viel Zeit, weil man im Internet auf verschiedensten
