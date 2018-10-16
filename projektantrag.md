@@ -1,4 +1,5 @@
 # Projektantrag
+
 ## Ausgangssituation
 Viele Freunde und Bekannte haben das selbe Problem wie ich. Man möchte etwas mit Freunden
 unternehmen, aber weiß nicht wo sich lustige und spannende Veranstaltungen abspielen. 
@@ -14,9 +15,15 @@ die viel zu weit weg sind.
 
 ## Aufgabenstellung
 Ich möchte eine Applikation (als Website) entwickeln, welche dem Benutzer individuell und übersichtlich
-Events anzeigt, die seinen Interessen entsprechen und in der Nähe (z.B. annähernd der Bezirk) sind. Dazu muss ein Benutzerprofil angelegt werden,
-bei dem die erforderlichen Daten sowie Interessen etc. eingeholt werden. Ich bin mir noch nicht ganz im klaren ob jeder eine Veranstaltung
-anlegen darf, oder nur spezielle Veranstalter.
+Events anzeigt, die seinen Interessen entsprechen und in der Nähe (z.B. annähernd der Bezirk) sind. Dazu muss ein 
+Benutzerprofil angelegt werden, bei dem die erforderlichen Daten sowie Interessen etc. eingeholt werden. 
+Ich bin mir noch nicht ganz im klaren ob jeder eine Veranstaltung anlegen darf, oder nur spezielle Veranstalter.
+Die App sollte auch soweit personalisiert sein, dass Benutzern die jünger als 16 Jahre sind, keine Events
+die ein Mindestalter von 16 Jahren erfordern, angezeigt werden. 
+Die Website muss auch ein responsives Design haben, da ich davon ausgehe das sie meistens über ein
+Smartphone oder Tablet aufgerufen wird.
+Entwickeln möchte ich die Website mit verschiedenen Webtechnologien und einer Datenbank in der die Benutzerkonten, 
+Veranstaltungen etc. gespeichert werden.
 
 ## Nutzen
 Mein Hauptziel ist es eine Oberfläche zu erstellen auf welcher der Benutzer kompakt und übersichtlich auf kommende Events, 
